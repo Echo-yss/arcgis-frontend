@@ -1,0 +1,48 @@
+#components-layout-demo-top-side-2{
+    width: 120px;
+    height: 31px;
+    background: rgba(255, 255, 255, 0.2);
+    margin: 16px 28px 16px 0;
+    float: left;
+  }
+
+#logo{
+    width: 120px;
+    height: 31px;
+    background: rgba(255, 255, 255, 0.2);
+    margin: 16px 28px 16px -200px;
+    float: left;
+}
+  .site-layout-background {
+    background-image: url("../images/mainT.png");
+    padding: 24;
+    background-size: contain;
+    background-repeat:no-repeat; 
+  }
+
+  .shuishen{
+    background-image: url("../images/shuishen.jpg");
+    background-size: contain;
+    background-repeat:no-repeat; 
+  }
+  .zuankong{
+    background-image: url("../images/zuankong.jpg");
+    background-size: contain;
+    background-repeat:no-repeat; 
+  }
+  .xianchang{
+    background-image: url("../images/dxdmt.jpg");
+    background-size: contain;
+    background-repeat:no-repeat; 
+  }
+  .gongchengdizhipoumian{
+    background-image: url("../images/gcdzjpt.jpg");
+    background-size: contain;
+    background-repeat:no-repeat; 
+  }
+  .gis{
+    width:"80%";
+    min-height: "600px";
+    min-block-size: "600px";
+  }
+  
